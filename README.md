@@ -2,7 +2,7 @@
 
 ## Course 1: Foundations: Data, Data, Everywhere
 
-* Course Objectives
+### Course Objectives
 - Gain an understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job. 
 - Learn about key analytical skills (data cleaning, data analysis, data visualization) and tools (spreadsheets, SQL, R programming, Tableau) that you can add to your professional toolbox. 
 - Discover a wide variety of terms and concepts relevant to the role of a junior data analyst, such as the data life cycle and the data analysis process. 
